@@ -1,10 +1,11 @@
-[![shanemaglangit.com](https://img.shields.io/badge/-shanemaglangit\.com-222222?style=flat&logo=google-chrome&logoColor=F26C4F&link=https://www.shanemaglangit.com)](https://www.shanemaglangit.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanemaglangit/)](https://www.linkedin.com/in/shanemaglangit/)
-[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ShaneDMaglangit)](https://www.facebook.com/ShaneDMaglangit)
 ### 👋 &nbsp;Hello! I'm Shane
 I am a passionate developer who works with both software and website projects. I'm still currently taking up a bachelor's degree in Computer Science under National University Manila in the Philippines. Along with my studies, I also do some freelance projects for different people looking to outsource a developer in building their products.
 
 Some random facts about be. At the moment, I'm starting to develop a bit of liking to joining hackatons. I do love competing with others and see what we can ideas can we generate and build. In my spare time I like to play games, watch anime, and read manga.
+
+[![shanemaglangit.com](https://img.shields.io/badge/-shanemaglangit\.com-222222?style=flat&logo=google-chrome&logoColor=F26C4F&link=https://www.shanemaglangit.com)](https://www.shanemaglangit.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanemaglangit/)](https://www.linkedin.com/in/shanemaglangit/)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ShaneDMaglangit)](https://www.facebook.com/ShaneDMaglangit)
 
 ### :boom: &nbsp;Recent Tech Career Achievements
 * Became a finalist of Hackfest 2020: Online organized by Developer Student Clubs - Loyola
