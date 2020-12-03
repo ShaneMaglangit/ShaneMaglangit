@@ -36,7 +36,7 @@ Some random facts about be. At the moment, I'm starting to develop a bit of liki
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
-## :art: &nbsp;Design Stack
+### :art: &nbsp;Design Stack
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=Adobe-Illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=Adobe-Photoshop)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=Adobe-XD)&nbsp;
