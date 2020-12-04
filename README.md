@@ -20,6 +20,8 @@ Some random facts about be. At the moment, I'm starting to develop a bit of liki
 ![Material](https://img.shields.io/badge/-Material-333333?style=flat&logo=Material-UI)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)&nbsp;
