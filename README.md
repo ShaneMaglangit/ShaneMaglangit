@@ -6,6 +6,7 @@ Some random facts about be. At the moment, I'm starting to develop a bit of liki
 [![shanemaglangit.com](https://img.shields.io/badge/-shanemaglangit\.com-222222?style=flat&logo=google-chrome&logoColor=F26C4F&link=https://www.shanemaglangit.com)](https://www.shanemaglangit.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanemaglangit/)](https://www.linkedin.com/in/shanemaglangit/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ShaneDMaglangit)](https://www.facebook.com/ShaneDMaglangit)
+[![Qwiklabs](https://img.shields.io/badge/-Qwiklabs-4c8bf5?style=flat&logo=Qwiklabs&logoColor=white&link=https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)](https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)
 
 ### :boom: &nbsp;Recent Tech Career Achievements
 * Became a finalist of Hackfest 2020: Online organized by Developer Student Clubs - Loyola
