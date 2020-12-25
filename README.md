@@ -10,7 +10,7 @@ Some random facts about be. At the moment, I'm starting to develop a bit of liki
 
 ### :boom: &nbsp;Recent Tech Career Achievements
 * Developed the official website for ACM Celebration of Women in Computing Asia Pacific (ACM-WAP) 2021, a virtual event organized by the newly formed ACM-W Asia-Pacific Committee (ACM-WAP) in association with National University, Manila, Philippines, and the Computing Society of the Philippines - Special Interest Group on Women in Computing (CSP SIG-WiC)
-* Became a finalist of Hackfest 2020: Online organized by Developer Student Clubs - Loyola
+* Became a finalist of Hackfest 2020: Online organized by Developer Student Clubs - Loyola. Ranked 7th out of the 100+ teams that participated.
 * Placed 2nd on the Programming Competition organized by Junior Philippine Computer Society - NU Chapter
 * Became the assistant secretary for National University Computer Society
 * Started a bachelor's degree in Computer Science - Machine Learning
