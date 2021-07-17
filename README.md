@@ -9,7 +9,7 @@ I do love competing with others and see what we can ideas can we generate and bu
 [![Qwiklabs](https://img.shields.io/badge/-Qwiklabs-4c8bf5?style=flat&logo=Qwiklabs&logoColor=white&link=https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)](https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)
 
 ### :boom: &nbsp;Recent Tech Career Achievements
-* 47th Most Active Github Users in the Philippines @July 5, 2021 [Source](https://commits.top/philippines.html)
+* 44th Most Active Github Users in the Philippines @July 5, 2021. [Source](https://commits.top/philippines.html)
 * Became the champion of the Programming Competition organized by Junior Philippine Computer Society - NU Chapter.
 * Consecutively ranked among the top 3 participants of the Accenture Quicode Weekly Challenge
 * Developed the official website for ACM Celebration of Women in Computing Asia Pacific (ACM-WAP) 2021, a virtual event organized by the newly formed ACM-W Asia-Pacific Committee (ACM-WAP) in association with National University, Manila, Philippines, and the Computing Society of the Philippines - Special Interest Group on Women in Computing (CSP SIG-WiC)
