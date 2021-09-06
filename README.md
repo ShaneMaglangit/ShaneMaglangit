@@ -1,4 +1,4 @@
-***Note: I'm not a tech support. Please only send messages to my personal email address for professional queries. Otherwise, you may use the issues tab on my repositories for repo-specific questions. Thank you for understanding.***
+***Note: Please only send messages to my personal email address for professional queries. Otherwise, you may use the issues tab on my repositories for repo-specific questions. Thank you for understanding.***
 
 ---
 
