@@ -1,7 +1,3 @@
-***Note: Please only send messages to my personal email address for professional queries. Otherwise, you may use the issues tab on my repositories for repo-specific questions. Thank you for understanding.***
-
----
-
 ### 👋 &nbsp;Hello! I'm Shane
 I am a passionate developer who loves building applications and websites. I'm currently at my junior year taking up a Bachelor's Degree in Computer Science specializing in Machine Learning under National University Manila in the Philippines. Along with my studies, I also work on freelance projects for clients looking to outsource a developer in building their products.
 
