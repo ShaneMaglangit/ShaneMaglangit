@@ -1,5 +1,5 @@
 ### 👋 &nbsp;Hello! I'm Shane
-I am a Fullstack Engineer based on the Philippines. I help bring whiteboard ideas to life through code. In 2007, I first touched a computer with my hand and immediately fell in love. I have never forgotten about them since and knew that I wanted to worked with it in the future.
+I am a Fullstack Software Engineer based on the Philippines. I help bring whiteboard ideas to life through code. In 2007, I first touched a computer with my hand and immediately fell in love. I have never forgotten about them since and knew that I wanted to worked with it in the future.
 
 Now, I tussle with modern development technologies to design and build high-value websites, applications, and servers. Specializing in frontend development technologies but with a proficient understanding and special interest towards backend development.
 
