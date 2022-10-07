@@ -7,7 +7,3 @@ Now, I tussle with modern development technologies to design and build high-valu
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanemaglangit/)](https://www.linkedin.com/in/shanemaglangit/)
 [![Twitter](https://img.shields.io/badge/-Twitter-4c8bf5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ShaneMaglangit)](https://twitter.com/ShaneMaglangit)
 [![Qwiklabs](https://img.shields.io/badge/-Qwiklabs-4c8bf5?style=flat&logo=Qwiklabs&logoColor=white&link=https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)](https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)
-
-## Holopin Badges
-
-[![@ssavvity's Holopin board](https://holopin.io/api/user/board?user=ssavvity)](https://holopin.io/@ssavvity)
