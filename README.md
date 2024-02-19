@@ -1,11 +1,6 @@
 [![An image of @shanemaglangit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shanemaglangit)](https://holopin.io/@shanemaglangit)
 
-### 👋 &nbsp;Hello! I'm Shane
-I am a Fullstack Software Engineer based on the Philippines. I help bring whiteboard ideas to life through code. In 2007, I first touched a computer with my hand and immediately fell in love. I have never forgotten about them since and knew that I wanted to worked with it in the future.
-
-Now, I tussle with modern development technologies to design and build high-value websites, applications, and servers. Specializing in frontend development technologies but with a proficient understanding and special interest towards backend development.
-
 [![shanemaglangit.com](https://img.shields.io/badge/-shanemaglangit\.com-222222?style=flat&logo=google-chrome&logoColor=F26C4F&link=https://www.shanemaglangit.com)](https://www.shanemaglangit.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanemaglangit/)](https://www.linkedin.com/in/shanemaglangit/)
-[![Twitter](https://img.shields.io/badge/-Twitter-4c8bf5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ShaneMaglangit)](https://twitter.com/ShaneMaglangit)
-[![Qwiklabs](https://img.shields.io/badge/-Qwiklabs-4c8bf5?style=flat&logo=Qwiklabs&logoColor=white&link=https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)](https://google.qwiklabs.com/public_profiles/d7a5aafa-4282-47ee-b4fd-bad3c253a9c9)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanemaglangit/)](https://www.linkedin.com/in/shanemaglangit/)
+[![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=Gitlab&link=https://www.gitlab.com/shanemaglangit)](https://gitlab.com/ShaneMaglangit)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ShaneMaglangit)](https://twitter.com/ShaneMaglangit)
